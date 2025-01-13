@@ -14,7 +14,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Tools | Project Description | 
 |---|---|---|
-| 💰 [Loan Applications and Offers Dataset](https://github.com/KentFong/Offers-Loans-EDA) | Python, Pandas, Jupyter Notebook | Exploration of Loan Applications and Offers given by banks/lenders, as well as insights on factors that affect the offer decision. Simple models were also created for future loans and offer predictions. |
+| 💰 [Loan Applications and Offers Dataset](https://github.com/KentFong/Offers-Loans-EDA/blob/main/apps_offers_analysis.pdf) | Python, Pandas, Jupyter Notebook | Exploration of Loan Applications and Offers given by banks/lenders, as well as insights on factors that affect the offer decision. Simple models were also created for future loans and offer predictions. |
 
 ***
 
@@ -28,7 +28,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 ## Deep Learning
 | Project Link | Tools | Project Description | 
 |---|---|---|
-| 🤖 [Human Action Recognition on Drone Captured Images](https://github.com/KentFong/OpenPose-Action-Recognition-Model) | OpenPose, COCO Model, YOLO V8, Tensorflow, DNN, XG Boost | Exploring the various deep learning algorithms and video analysis techniques to develop an enhanced model that focuses on analysing and recognising human actions, from existing open source codes. |
+| 🤖 [Human Action Recognition on Drone Captured Images](https://github.com/KentFong/OpenPose-Action-Recognition-Model/blob/main/MDS8_FIT3164%20User%20Guide.pdf) | OpenPose, COCO Model, YOLO V8, Tensorflow, DNN, XG Boost | Exploring the various deep learning algorithms and video analysis techniques to develop an enhanced model that focuses on analysing and recognising human actions, from existing open source codes. |
 
 
 
